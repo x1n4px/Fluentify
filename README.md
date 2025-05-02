@@ -43,6 +43,7 @@ Fluentify es una aplicación web que utiliza inteligencia artificial para correg
    Crear un archivo `.env` en la raíz del proyecto con:
    ```env
    VITE_GEMINI_API_KEY=tu_api_key_de_google_gemini
+   VITE_GEMINI_MODEL=Modelo
    ```
 
 4. **Ejecutar en desarrollo**:
