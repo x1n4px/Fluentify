@@ -1,6 +1,5 @@
 # Fluentify - AI English Text Corrector
 
-![Fluentify Screenshot](./public/screenshot.png)
 
 ## 📝 Descripción
 
